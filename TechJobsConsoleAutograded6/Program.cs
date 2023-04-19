@@ -4,3 +4,4 @@ using TechJobsConsoleAutograded6;
 
 var techJobs = new TechJobs();
 techJobs.RunProgram();
+  
